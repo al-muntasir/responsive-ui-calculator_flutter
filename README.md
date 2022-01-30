@@ -1,6 +1,6 @@
 # calculator_app
 
-A new Flutter project.
+This corss platfrom(android , iso & web )simple calculator appliacation is developed with flutter SDK and math_expressions: ^2.2.0 libarary
 
 ## Getting Started
 
